@@ -1,0 +1,13 @@
+a:=5;
+b:=6;
+if a<=b then
+a:=b+1
+else
+b:=a+1
+fi;
+while b<=a do
+print(b)
+b:=b+1
+done;
+print("Hello",a,"Hello",b);
+println;
