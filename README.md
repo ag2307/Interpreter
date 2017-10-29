@@ -1,5 +1,11 @@
 # Interpreter
 Build on python :blush:
+* ### Version Summary:
+  - **`ver0`** - Complete   (Sample running code in folder)
+  - **`ver1`** - Complete   (Sample running code in folder)
+  - **`ver2`** - Complete   (Sample running code in folder)
+  - **`ver3`** - Incomplete (Sample code in folder)
+  
 * This interpreter is based on Python Object Oriented Programming and uses autolinking of objects to their functions (saying in lame terms). All the **`__init__`** methods and **`build`** methods are used to parse the blocks of code sequentially.
   The **`eval`** method in the above interpreter works similar to python **`eval`** method and evaluates the parsed tree/structure of the code.
 * Basic **toy language** which is parsed and interpreted using **python** is as follows:

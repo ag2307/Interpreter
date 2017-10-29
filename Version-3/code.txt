@@ -1,0 +1,5 @@
+function abhinav(n) begin
+return n;
+end;
+n:=5;
+result:=abhinav(n);
