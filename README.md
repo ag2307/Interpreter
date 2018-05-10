@@ -1,5 +1,5 @@
 # Interpreter
-Build on python :blush:
+Built on python :blush:
 * ### Version Summary:
   - **`ver0`** - Complete   (Sample running code in folder)
   - **`ver1`** - Complete   (Sample running code in folder)
